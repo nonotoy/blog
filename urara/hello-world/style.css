@@ -1,0 +1,9 @@
+<style>
+.example{
+    width: 100%;
+}
+.example td:first-child{
+    width: 0;
+    white-space: nowrap;
+}
+</style>
