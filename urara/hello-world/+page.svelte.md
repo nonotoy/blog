@@ -1,23 +1,22 @@
 ---
-title: 'About'
+title: 'About me'
 created: 2022-12-19
 updated: 2022-12-19
 tags:
   - 'About me'
 ---
 
-Welcome to Urara! this article contains some basic operations to help you quickly get started.
-
 ## About me
 
-- Master's student in Informatics at [JAIST](https://www.jaist.ac.jp/)
+- Data analyst
+- Mature Master's student in Informatics at [JAIST](https://www.jaist.ac.jp/)
 - Aspiring polyglot
 - Sauna lover
 
 ## Language
 
 <table border="0">                     
-    <tr>
+    <tr width="200">
       <td>Japanese</td>
       <td>■■■■■■ Native</td>
     </tr>
