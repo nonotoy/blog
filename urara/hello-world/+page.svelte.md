@@ -15,29 +15,19 @@ tags:
 
 ## Language
 
-<table class="example">                     
-    <tr>
-      <td>Japanese</td>
-      <td>■■■■■■ Native</td>
-    </tr>
-    <tr>
-      <td>English</td>
-      <td>■■■■■□ C1</td>
-    </tr>
-    <tr>
-      <td>Ainu</td>
-      <td>■■■□□□ B1</td>
-    </tr>
-    <tr>
-      <td>German</td>
-      <td>■■■■□□ B2</td>
-    </tr>
-    <tr>
-      <td>Mandarin</td>
-      <td>■■■□□□ B1</td>
-    </tr>
-    <tr>
-      <td>French</td>
-      <td>■□□□□□ A1</td>
-    </tr>
-</table>
+| Language | Proficiency    | 
+| -------- | -------------- | 
+| Japanese | ■■■■■■ Native  | 
+| English  | ■■■■■□ C1      |
+| German   | ■■■■□□ B2      | 
+| Ainu     | ■■■□□□ B1      | 
+| French   | ■□□□□□ A1      | 
+| Amis     | □□□□□□ A0      | 
+
+## Programming Language
+
+| Language   | Proficiency         | 
+| ---------- | ------------------- | 
+| Python     | ■■■□□□ Intermidiate | 
+| JavaScript | ■□□□□□ Novice       | 
+| Java       | ■□□□□□ Novice       | 
