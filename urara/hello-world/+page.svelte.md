@@ -15,7 +15,7 @@ tags:
 
 ## Language
 
-<table>                     
+<table class="example">                     
     <tr>
       <td>Japanese</td>
       <td>■■■■■■ Native</td>
