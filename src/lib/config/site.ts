@@ -10,7 +10,7 @@ export const site: SiteConfig = {
   author: {
     name: 'Nonotoy',
     status: '🙃',
-    bio: 'Iranakarapte!'
+    bio: 'Irankarapte!'
   },
   themeColor: '#3D4451'
 }

@@ -1,7 +1,7 @@
 ---
 title: 'About me'
 created: 2022-12-19
-updated: 2022-12-19
+updated: 2022-12-28
 tags:
   - 'About me'
 ---
@@ -21,7 +21,7 @@ tags:
 | English  | ■■■■■□ C1      |
 | German   | ■■■■□□ B2      | 
 | Ainu     | ■■■□□□ B1      | 
-| French   | ■□□□□□ A1      | 
+| Spanish  | ■□□□□□ A1      | 
 | Amis     | □□□□□□ A0      | 
 
 ## Programming Language
