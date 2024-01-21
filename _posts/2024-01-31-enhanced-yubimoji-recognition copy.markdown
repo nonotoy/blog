@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Enhanced recognition of dynamic finger alphabets in JSL using MediaPipe"
-date: 2024-01-06 01:11:00 +0100
-categories: "computer vision"
+date: 2024-01-06 00:00:00 +0900
+categories: [computer vision]
 ---
 
 # Enhanced recognition of dynamic finger alphabets in JSL using MediaPipe
