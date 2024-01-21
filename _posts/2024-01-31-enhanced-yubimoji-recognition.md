@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Syntax highlighting"
-date: 2019-11-06 01:11:00 +0100
+title: "Enhanced Recognition of Dynamic Finger Alphabets in JSL using MediaPipe"
+date: 2024-01-31 00:00:00 +0900
 categories:
 ---
 
-# Syntax highlighting
+# Enhanced Recognition of Dynamic Finger Alphabets in JSL using MediaPipe
 
-This theme supports syntax respectively code highlighting. Below you find some examples of different programming languages.
+Some of Japanese Sign Language (JSL) signing alphabets involve dynamic movements directed towards the signer's body. This demonstrates recognition improvement through the normalization of hand movements based on palm length.
 
 <br />ruby:
 {% highlight ruby %}
