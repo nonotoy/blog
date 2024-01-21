@@ -14,3 +14,21 @@ As a passionate coder and aspiring polyglot, my interests lie deeply rooted in t
 - eng: English C1
 - deu: Deutsch B2
 - ain: Ainu B2
+
+<table>
+  <tr>
+    <th>Header 1</th>
+    <th>Header 2</th>
+    <th>Header 3</th>
+  </tr>
+  <tr>
+    <td>Row 1</td>
+    <td>Data</td>
+    <td>Data</td>
+  </tr>
+  <tr>
+    <td>Row 2</td>
+    <td>Data</td>
+    <td>Data</td>
+  </tr>
+</table>
