@@ -10,25 +10,44 @@ As a passionate coder and aspiring polyglot, my interests lie deeply rooted in t
 
 # Language
 
-- jpn: Japanese Native
-- eng: English C1
-- deu: Deutsch B2
-- ain: Ainu B2
+|----------|----------|----------|
+| Row 1 | Data | Data |
+| Row 2 | Data | Data |
 
 <table>
   <tr>
-    <th>Header 1</th>
-    <th>Header 2</th>
-    <th>Header 3</th>
+    <td>jpn</td>
+    <td>Japanese</td>
+    <td>Native</td>
   </tr>
   <tr>
-    <td>Row 1</td>
-    <td>Data</td>
-    <td>Data</td>
+    <td>eng</td>
+    <td>English</td>
+    <td>C1</td>
   </tr>
   <tr>
-    <td>Row 2</td>
-    <td>Data</td>
-    <td>Data</td>
+    <td>deu</td>
+    <td>Deutsch</td>
+    <td>B2</td>
+  </tr>
+  <tr>
+    <td>ain</td>
+    <td>Ainu</td>
+    <td>B2</td>
+  </tr>
+  <tr>
+    <td>cmn</td>
+    <td>Chinese</td>
+    <td>B1</td>
+  </tr>
+  <tr>
+    <td>fra</td>
+    <td>French</td>
+    <td>A1</td>
+  </tr>
+  <tr>
+    <td>jsl</td>
+    <td>Japan Sign Language</td>
+    <td>A1</td>
   </tr>
 </table>
