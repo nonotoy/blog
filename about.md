@@ -1,6 +1,6 @@
 ---
-layout: page
 title: /kani anak
+layout: page
 permalink: /about/
 ---
 
