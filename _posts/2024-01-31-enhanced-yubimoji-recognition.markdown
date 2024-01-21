@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Enhanced Recognition of Dynamic Finger Alphabets in JSL using MediaPipe"
-date: 2024-01-31 00:00:00 +0900
+date: 2024-01-31 01:00:00 +0900
 categories:
 ---
 
