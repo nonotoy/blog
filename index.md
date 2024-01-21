@@ -1,6 +1,6 @@
 ---
-title: /
-layout: apa
+title: home
+layout: /home
 permalink: /
 ---
 
