@@ -4,4 +4,4 @@ layout: home
 permalink: /
 ---
 
-# Ahoyl!
+# Ahoy!
