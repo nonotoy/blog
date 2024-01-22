@@ -24,11 +24,7 @@ As a passionate coder and aspiring polyglot, my interests lie deeply rooted in t
 
 ## Programming Languages
 
-_Python_, _Java_, _JavaScript_, _HTML/CSS_, _XML_
-
-## Frond-End Development
-
-_HTML5_, _CSS3_
+_Python_, _Java_, _JavaScript_, _HTML5_, _CSS3_
 
 ## Database
 
@@ -36,7 +32,7 @@ _SQLite_, _MS Access_
 
 ## Software
 
-_Alteryx_, _UiPath_, _Tableau_
+_VS Code_, _Alteryx_, _UiPath_, _Tableau_
 
 ## Miscellaneous
 
