@@ -34,6 +34,6 @@ _SQLite_, _MS Access_
 
 _VS Code_, _Alteryx_, _UiPath_, _Tableau_
 
-## Miscellaneous
+## Generative AI
 
 _Prompt Engineering_
