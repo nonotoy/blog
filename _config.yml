@@ -10,7 +10,7 @@ header_pages:
 
 style: dark
 
-footer: '<a href="https://www.linkedin.com/in/yoshifumi-hanada/">linkedin</a>'
+footer: '<a href="https://github.com/nonotoy">github</a> <a href="https://www.linkedin.com/in/yoshifumi-hanada/">linkedin</a>'
 
 # Build settings
 markdown: kramdown
