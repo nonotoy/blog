@@ -22,18 +22,9 @@ As a passionate coder and aspiring polyglot, my interests lie deeply rooted in t
 
 # Tech Stack
 
-## Programming Languages
-
-_Python_, _Java_, _JavaScript_, _HTML5_, _CSS3_
-
-## Database
-
-_SQLite_, _MS Access_
-
-## Software
-
-_VS Code_, _Alteryx_, _UiPath_, _Tableau_
-
-## Generative AI
-
-_Prompt Engineering_
+<table>
+  <tr><td>**Programming Languages**</td></td>Python, Java, JavaScript, HTML5, CSS3</td></tr>
+  <tr><td>**Database**</td></td>SQLite, MS Access</td></tr>
+  <tr><td>**Software**</td></td>VS Code, Alteryx, UiPath, Tableau</td></tr>
+  <tr><td>**Generative AI**</td></td>Prompt Engineering</td></tr>
+</table>
